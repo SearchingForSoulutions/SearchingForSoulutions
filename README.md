@@ -5,5 +5,5 @@
 </div>
 
 # AWS Badges
-![aws cloud 101](https://github.com/SearchingForSoulutions/SearchingForSoulutions.git/assets/aws-educate-introduction-to-cloud-101.png)
+![aws cloud 101](assets/aws-educate-introduction-to-cloud-101.png)
 

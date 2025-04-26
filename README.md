@@ -6,4 +6,8 @@
 
 # AWS Badges
 ![aws cloud 101](assets/aws-educate-introduction-to-cloud-101.png)
+![getting started with generative AI](assets/aws-educate-introduction-to-generative-ai.png)
+![getting started with storage](assets/aws-educate-getting-started-with-storage.png)
+![getting started with compute](assets/aws-educate-getting-started-with-compute.png)
+
 
